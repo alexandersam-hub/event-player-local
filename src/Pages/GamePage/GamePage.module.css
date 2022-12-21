@@ -1,0 +1,143 @@
+
+.wrapper{
+    font-size: 16px;
+    font-family: Gilroy;
+    color: #2662B3;
+    font-weight: 800;
+    text-align: left;
+
+}
+.content{
+    width: 90%;
+    max-width: 1024px;
+    margin: auto;
+}
+.map{
+    width: 100%;
+    margin: 30px auto;
+
+
+}
+
+
+.user_id{
+    position: absolute;
+    right: 10px;
+    top:100px;
+}
+
+.title{
+    margin: 20px auto;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+
+
+    color: #2662B3;
+}
+.wrapper_quest_timer_finish,
+.wrapper_quest{
+    padding: 20px;
+
+    margin: auto;
+    border:3px solid #2662B3;
+    border-radius: 20px;
+}
+.wrapper_quest_timer_finish{
+    margin-top: 40px;
+    text-align: center;
+}
+.score_wrapper{
+    width: 93%;
+    margin: auto;
+}
+.score{
+
+    max-width: 500px;
+
+}
+
+.wrapper_waiting_launch{
+    margin-top:10px;
+}
+
+.team_name{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+
+    /* identical to box height */
+    color: #2662B3;
+    text-align: center;
+    margin: 0 auto 20px auto;
+
+}
+
+.waiting_launch{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 49px;
+    /* identical to box height */
+    color: #2662B3;
+    text-align: center;
+    margin: auto;
+    padding: 2px;
+}
+
+.loader_img{
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+
+.stupid_phrase{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 49px;
+    /* identical to box height */
+    color: #2662B3;
+    text-align: center;
+    margin: auto;
+  padding: 2px;
+
+}
+
+.answer_ready{
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.true_answer{
+
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    /* identical to box height */
+    color: #2662B3;
+    text-align: center;
+    margin: 20px auto 0 auto;
+   width: 95%;
+}
+
+.pie_charts{
+    margin: auto;
+}
+
+.search_input{
+    display: block;
+    width: calc(100% - 20px);
+    margin: 20px auto;
+    font-size: 16px;
+    font-weight: 800;
+    /*max-width: 400px;*/
+    padding:10px;
+    text-align: center;
+}

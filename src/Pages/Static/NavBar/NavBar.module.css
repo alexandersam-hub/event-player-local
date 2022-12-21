@@ -1,0 +1,43 @@
+.wrapper{
+    height: 90px;
+    background-color: #2662B3;
+    text-align: left;
+    font-family: Gilroy;
+    width: 100%;
+    color:#fff;
+    font-weight: 800;
+}
+
+.logo{
+
+    display: inline-block;
+    margin-top: 18px;
+    margin-left: 20px;
+    width: 235px;
+    height: 90px;
+}
+
+.logo_up{
+    font-size: 15px;
+}
+
+.logo_down{
+    font-size: 24px;
+}
+
+
+.team_name{
+    display: inline-block;
+    /*vertical-align: middle;*/
+    width: 40px;
+
+    /*background-color: red;*/
+    margin-top: 25px;
+    margin-right: 10px;
+    float: right;
+    cursor: pointer;
+}
+
+/*@media (max-width:1000px) {*/
+
+/*}*/
